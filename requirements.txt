@@ -4,3 +4,4 @@ snowflake-snowpark-python==1.9.0
 #snowflake-snowpark-python==0.7.0
 streamlit==1.31.1
 requests
+pandas
